@@ -1,3 +1,9 @@
+# Fork Notes
+
+This is a fork of k3s-root, that allows binary compilation for a x86 (i386) target.
+
+Compile simply with `make`, the default architecture has been updated.
+
 # k3s-root
 ==========
 

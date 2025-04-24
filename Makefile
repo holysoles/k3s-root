@@ -1,5 +1,5 @@
-ARCH ?= amd64
-ALL_ARCH = amd64 arm64 arm ppc64le s390x riscv64
+ARCH ?= i386
+ALL_ARCH = amd64 arm64 arm ppc64le s390x riscv64 i386
 
 export BUILDARCH = $(ARCH)
 export VERBOSE ?= 1
